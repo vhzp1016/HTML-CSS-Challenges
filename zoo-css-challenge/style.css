@@ -1,5 +1,6 @@
 * {
   font-family: sans-serif;
+  line-height: 30px;
 }
 
 header {
@@ -31,6 +32,10 @@ section {
 
 img {
   border: 5px solid #8075ff;
+}
+
+#logo{
+  border-style: none;
 }
 
 h1,
@@ -76,6 +81,7 @@ footer {
 }
 
 .introduction {
+  background-color: white;
 }
 
 #badge {
