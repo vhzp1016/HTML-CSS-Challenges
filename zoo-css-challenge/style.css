@@ -34,8 +34,21 @@ img {
   border: 5px solid #8075ff;
 }
 
-#logo{
-  border-style: none;
+#crizly1{
+  border-color: red;
+  position: relative;
+  top: -100px; /* ajustar los valores para mover la imagen */
+  left: -3px;
+  width: px;
+ 
+}
+
+#crizly2{
+  border-color: green;
+}
+
+#crizly3{
+  border-color: yellow;
 }
 
 h1,
